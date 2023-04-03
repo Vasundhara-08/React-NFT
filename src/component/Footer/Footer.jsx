@@ -5,6 +5,7 @@ import './Footer.css'
 
 const MY_ACCOUNT = [
   {
+    
     display: 'Author Profile',
     url: '/seller-profile'
   },
