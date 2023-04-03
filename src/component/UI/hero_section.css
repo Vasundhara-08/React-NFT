@@ -1,0 +1,51 @@
+.hero__section{
+    margin-top: 120px;
+}
+
+.hero_content h2{
+    line-height: 55px;
+    font-size:1.5rem ;
+}
+
+.hero_content h2 span{
+    background: -o-linear-gradient(-45deg, pink,blue,pink,blue);
+    background-size: 100% 100%;
+    background-clip: text;
+    -webkit-text-stroke: 3px transparent;
+    -webkit-text-fill-color: black;
+    margin-left: 7px !important;
+    display: inline-block;
+}
+
+.hero__btns {
+margin-top: 40px;
+}
+
+ .explore__btn, .create__btn{
+  border: none;
+  outline: none;
+  padding: 7px 25px !important;
+  border-radius: 50px !important;
+  border: 1px solid blue !important;
+  font-size: 0.9rem; 
+  background:transparent; 
+}
+
+.explore__btn i ,.create__btn i {
+    font-size:1rem;
+    color: aliceblue;
+}
+
+.explore__btn a ,.create__btn a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.hero__img{
+    width: 500px;
+    margin-left:auto;
+}
+
+.hero__img img{
+    border-radius:7px ;
+}
